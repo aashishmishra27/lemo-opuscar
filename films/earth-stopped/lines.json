@@ -1,0 +1,1429 @@
+[
+ {
+  "id": "S01_0",
+  "who": "B",
+  "text": "Five more minutes. Pleeease. Exam is at nine.",
+  "sub": "Five more minutes. Pleeease. Exam's at nine.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S01_1",
+  "who": "N",
+  "text": "Fine. I'll stop the sunrise.",
+  "sub": "Fine. I'll stop the sunrise.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S02_0",
+  "who": "N",
+  "text": "In one second, the ground under you stops.",
+  "sub": "In one second, the ground under you stops.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S02_1",
+  "who": "N",
+  "text": "You don't.",
+  "sub": "You don't.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S03_0",
+  "who": "N",
+  "text": "You keep flying east, at over sixteen hundred kilometers an hour.",
+  "sub": "You keep flying east… at over 1,600 km/h.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S04_0",
+  "who": "B",
+  "text": "Nova. What did you do?!",
+  "sub": "…Nova. What did you DO?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S04_1",
+  "who": "N",
+  "text": "I stopped the Earth spinning. You wanted more sleep.",
+  "sub": "I stopped the Earth spinning. You wanted more sleep.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S05_0",
+  "who": "N",
+  "text": "Stick with me to the end.",
+  "sub": "Stick with me to the end.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S05_1",
+  "who": "N",
+  "text": "I'll show you the one thing in your night sky that would start this whole planet spinning again.",
+  "sub": "I'll show you the one thing in your night sky that would start this whole planet spinning again.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S06_0",
+  "who": "N",
+  "text": "And what it would cost us.",
+  "sub": "And what it would cost us.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S07_0",
+  "who": "B",
+  "text": "What do you mean, cost?",
+  "sub": "What do you mean, \"cost\"?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S07_1",
+  "who": "N",
+  "text": "Let's rewind. One second before the brake.",
+  "sub": "Let's rewind. One second before the brake.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S09_0",
+  "who": "N",
+  "text": "Right now, you think you're sitting still.",
+  "sub": "Right now, you think you're sitting still.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S10_0",
+  "who": "N",
+  "text": "Nope. Wrong.",
+  "sub": "Nope. Wrong.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S10_1",
+  "who": "N",
+  "text": "The Earth turns once every twenty-three hours and fifty-six minutes.",
+  "sub": "The Earth turns once every 23 hours and 56 minutes.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S11_0",
+  "who": "N",
+  "text": "At the equator, the ground moves at sixteen hundred and seventy kilometers an hour.",
+  "sub": "At the equator, the ground moves at 1,670 km/h.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S11_1",
+  "who": "B",
+  "text": "That's faster than a plane!",
+  "sub": "That's faster than a plane!",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S11_2",
+  "who": "N",
+  "text": "Faster than sound.",
+  "sub": "Faster than sound.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S12_0",
+  "who": "N",
+  "text": "In Chennai or Bengaluru, you are doing about sixteen hundred. Mumbai, around fifteen eighty. Delhi, about fourteen sixty-five.",
+  "sub": "In Chennai or Bengaluru, you're doing about 1,600. Mumbai, around 1,580. Delhi, about 1,465.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S12_1",
+  "who": "N",
+  "text": "At the North Pole? Almost zero. You just turn slowly. Like a cake in a microwave.",
+  "sub": "At the North Pole? Almost zero. You just turn slowly. Like a cake in a microwave.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S13_0",
+  "who": "B",
+  "text": "Then why don't I feel it? Why isn't my chai flying off the table?",
+  "sub": "Then why don't I feel it? Why isn't my chai flying off the table?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S13_1",
+  "who": "N",
+  "text": "Hold that thought. First, why is it spinning at all?",
+  "sub": "Hold that thought. First, why is it spinning at all?",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S14_0",
+  "who": "N",
+  "text": "Four and a half billion years ago, Earth formed from a spinning cloud of gas and dust.",
+  "sub": "Four and a half billion years ago, Earth formed from a spinning cloud of gas and dust.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S14_1",
+  "who": "N",
+  "text": "And that spin never stopped.",
+  "sub": "And that spin never stopped.",
+  "voice": "bf_emma",
+  "speed": 0.8,
+  "cut": 0.85
+ },
+ {
+  "id": "S15_0",
+  "who": "N",
+  "text": "In space, there's almost nothing to slow it down. No air. No brakes.",
+  "sub": "In space, there's almost nothing to slow it down. No air. No brakes.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S16_0",
+  "who": "N",
+  "text": "And you don't feel it for the same reason you don't feel a smooth flight.",
+  "sub": "And you don't feel it for the same reason you don't feel a smooth flight.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S16_1",
+  "who": "N",
+  "text": "Your body only feels changes in speed. Not speed itself.",
+  "sub": "Your body only feels changes in speed. Not speed itself.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S17_0",
+  "who": "N",
+  "text": "Your chai is moving at sixteen hundred too. You are all moving together.",
+  "sub": "Your chai is moving at 1,600 too. You're all moving together.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S18_0",
+  "who": "B",
+  "text": "So my chai is, a rocket.",
+  "sub": "So my chai is… a rocket.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S18_1",
+  "who": "N",
+  "text": "Your chai is a very calm rocket.",
+  "sub": "Your chai is a very calm rocket.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S19_0",
+  "who": "N",
+  "text": "Here's something weird. All that spinning makes Earth fat in the middle.",
+  "sub": "Here's something weird. All that spinning makes Earth fat in the middle.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S19_1",
+  "who": "N",
+  "text": "The equator bulges out about twenty-one kilometers.",
+  "sub": "The equator bulges out about 21 kilometres.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S20_0",
+  "who": "N",
+  "text": "So the point on Earth farthest from its center, isn't Everest.",
+  "sub": "So the point on Earth farthest from its centre… isn't Everest.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S20_1",
+  "who": "N",
+  "text": "It's Mount Chimborazo, in Ecuador. Two kilometers farther out.",
+  "sub": "It's Mount Chimborazo, in Ecuador. Two kilometres farther out.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S21_0",
+  "who": "B",
+  "text": "Everest is going to be so upset.",
+  "sub": "Everest is going to be so upset.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S22_0",
+  "who": "N",
+  "text": "And the spin is slowing down. Just a little. The Moon's tides act like a gentle brake.",
+  "sub": "And the spin is slowing down. Just a little. The Moon's tides act like a gentle brake.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S22_1",
+  "who": "N",
+  "text": "Every century, the day gets about two milliseconds longer.",
+  "sub": "Every century, the day gets about 2 milliseconds longer.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S23_0",
+  "who": "B",
+  "text": "So I'll get more sleep eventually!",
+  "sub": "So I'll get more sleep eventually!",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S23_1",
+  "who": "N",
+  "text": "In about seventeen million years, you will get your five extra minutes.",
+  "sub": "In about 17 million years, you'll get your five extra minutes.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S23_2",
+  "who": "B",
+  "text": "I can't wait that long.",
+  "sub": "…I can't wait that long.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S24_0",
+  "who": "N",
+  "text": "Which is why I built the Spin Brake.",
+  "sub": "Which is why I built the Spin Brake.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S25_0",
+  "who": "N",
+  "text": "But before I pull it again. Where on Earth would you survive the first second?",
+  "sub": "But before I pull it again… where on Earth would YOU survive the first second?",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S26_0",
+  "who": "N",
+  "text": "Okay. Rules.",
+  "sub": "Okay. Rules.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S26_1",
+  "who": "N",
+  "text": "Quick note. Nothing in nature can actually do this. It's a thought experiment.",
+  "sub": "Quick note: nothing in nature can actually do this. It's a thought experiment.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S27_0",
+  "who": "N",
+  "text": "The solid Earth stops in one second. Rock. Mountains. Buildings.",
+  "sub": "The solid Earth stops in one second. Rock. Mountains. Buildings.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S27_1",
+  "who": "N",
+  "text": "Everything else, the air, the water, the people, keeps going.",
+  "sub": "Everything else — the air, the water, the people — keeps going.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S28_0",
+  "who": "N",
+  "text": "Ready?",
+  "sub": "Ready?",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S28_1",
+  "who": "B",
+  "text": "No.",
+  "sub": "No.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S29_0",
+  "who": "N",
+  "text": "Stopping from sixteen hundred kilometers an hour in one second,",
+  "sub": "Stopping from 1,600 km/h in one second…",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S29_1",
+  "who": "N",
+  "text": "is a push of about forty-seven g.",
+  "sub": "…is a push of about 47 g.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S30_0",
+  "who": "N",
+  "text": "Jet pilots black out at around nine.",
+  "sub": "Jet pilots black out at around 9.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S31_0",
+  "who": "B",
+  "text": "So, forty-seven is bad.",
+  "sub": "So… 47 is bad.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S31_1",
+  "who": "N",
+  "text": "Forty-seven is, you are now a pancake.",
+  "sub": "Forty-seven is \"you are now a pancake.\"",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S32_0",
+  "who": "N",
+  "text": "Anything bolted down, buildings, bridges, trees, gets that jolt. Most of it snaps.",
+  "sub": "Anything bolted down — buildings, bridges, trees — gets that jolt. Most of it snaps.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S33_0",
+  "who": "N",
+  "text": "And anything not bolted down,",
+  "sub": "And anything not bolted down…",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S33_1",
+  "who": "N",
+  "text": "flies east. Faster than a bullet.",
+  "sub": "…flies east. Faster than a bullet.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S34_0",
+  "who": "N",
+  "text": "People. Cars. Cows. Your chai.",
+  "sub": "People. Cars. Cows. Your chai.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S34_1",
+  "who": "B",
+  "text": "Not the chai!",
+  "sub": "NOT THE CHAI!",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S35_0",
+  "who": "N",
+  "text": "And that's not even the worst part. There's a second killer. It's coming in a few minutes.",
+  "sub": "And that's not even the worst part. There's a second killer. It's coming in a few minutes.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S36_0",
+  "who": "N",
+  "text": "So where would you survive?",
+  "sub": "So where would you survive?",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S37_0",
+  "who": "N",
+  "text": "Remember the North Pole, spinning at almost zero?",
+  "sub": "Remember the North Pole, spinning at almost zero?",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S37_1",
+  "who": "N",
+  "text": "There, the stop is barely a nudge.",
+  "sub": "There, the stop is barely a nudge.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S38_0",
+  "who": "N",
+  "text": "The poles are the safest place on Earth. For now.",
+  "sub": "The poles are the safest place on Earth… for now.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S38_1",
+  "who": "B",
+  "text": "Booking a ticket to Antarctica.",
+  "sub": "Booking a ticket to Antarctica.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S39_0",
+  "who": "N",
+  "text": "Now. How much energy did I just delete?",
+  "sub": "Now. How much energy did I just delete?",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S39_1",
+  "who": "N",
+  "text": "Earth's spin holds as much energy as the Sun gives out, in total, in nine whole minutes.",
+  "sub": "Earth's spin holds as much energy as the Sun gives out — in total — in nine whole minutes.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S40_0",
+  "who": "N",
+  "text": "The entire Sun. In every direction. Nine minutes.",
+  "sub": "The entire Sun. In every direction. Nine minutes.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S40_1",
+  "who": "N",
+  "text": "That's about half a million dinosaur-killing asteroids.",
+  "sub": "That's about half a million dinosaur-killing asteroids.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S41_0",
+  "who": "B",
+  "text": "And you used it, so I could sleep in.",
+  "sub": "And you used it… so I could sleep in.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S41_1",
+  "who": "N",
+  "text": "You're welcome.",
+  "sub": "You're welcome.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S42_0",
+  "who": "N",
+  "text": "Hour one.",
+  "sub": "Hour one.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S44_0",
+  "who": "N",
+  "text": "Here's the second killer. The air itself.",
+  "sub": "Here's the second killer. The air itself.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S45_0",
+  "who": "N",
+  "text": "The atmosphere was never glued to the ground. It's still moving east at full speed.",
+  "sub": "The atmosphere was never glued to the ground. It's still moving east at full speed.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S46_0",
+  "who": "N",
+  "text": "So on the ground, it feels like a wind of up to sixteen hundred kilometers an hour.",
+  "sub": "So on the ground, it feels like a wind of up to 1,600 km/h.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S46_1",
+  "who": "N",
+  "text": "Faster than sound. A supersonic storm across almost all of India.",
+  "sub": "Faster than sound. A supersonic storm across almost all of India.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S47_0",
+  "who": "B",
+  "text": "How bad is that compared to a cyclone?",
+  "sub": "How bad is that compared to a cyclone?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S47_1",
+  "who": "N",
+  "text": "The strongest cyclones reach about three hundred. This is more than four times that.",
+  "sub": "The strongest cyclones reach about 300. This is more than four times that.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S48_0",
+  "who": "N",
+  "text": "Topsoil. Trees. Houses. Scraped clean off the land.",
+  "sub": "Topsoil. Trees. Houses. Scraped clean off the land.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S50_0",
+  "who": "N",
+  "text": "And all that air rubbing against the ground turns into heat.",
+  "sub": "And all that air rubbing against the ground turns into heat.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S51_0",
+  "who": "N",
+  "text": "Fun fact. After today, you will never see another cyclone. Ever. I'll tell you why soon.",
+  "sub": "Fun fact: after today, you'll never see another cyclone. Ever. I'll tell you why soon.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S53_0",
+  "who": "N",
+  "text": "The moving air alone carries about as much energy as the asteroid that wiped out the dinosaurs.",
+  "sub": "The moving air alone carries about as much energy as the asteroid that wiped out the dinosaurs.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S54_0",
+  "who": "B",
+  "text": "Just the air?!",
+  "sub": "Just the AIR?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S54_1",
+  "who": "N",
+  "text": "Just the air. The oceans carry hundreds of times more.",
+  "sub": "Just the air. The oceans carry hundreds of times more.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S55_0",
+  "who": "N",
+  "text": "The oceans don't stop either. They slam east into the continents.",
+  "sub": "The oceans don't stop either. They slam east into the continents.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S56_0",
+  "who": "N",
+  "text": "The Arabian Sea charges straight at Mumbai. Waves bigger than any tsunami in history.",
+  "sub": "The Arabian Sea charges straight at Mumbai. Waves bigger than any tsunami in history.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S57_0",
+  "who": "N",
+  "text": "And here's the strange part. Even after the waves calm down, the water won't stay put.",
+  "sub": "And here's the strange part. Even after the waves calm down… the water won't stay put.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S58_0",
+  "who": "N",
+  "text": "It starts to drain away. Somewhere.",
+  "sub": "It starts to drain away. Somewhere.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S59_0",
+  "who": "N",
+  "text": "It's day one. The winds are finally dying down. Look up.",
+  "sub": "It's day one. The winds are finally dying down. Look up.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S60_0",
+  "who": "N",
+  "text": "The Sun, isn't moving.",
+  "sub": "The Sun… isn't moving.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S61_0",
+  "who": "N",
+  "text": "It was sunrise in India when I pulled the brake. It's still sunrise. Tomorrow too. And next week.",
+  "sub": "It was sunrise in India when I pulled the brake. It's still sunrise. Tomorrow too. And next week.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S62_0",
+  "who": "N",
+  "text": "Now, the cyclones. They spin because the Earth spins. It's called the Coriolis effect.",
+  "sub": "Now, the cyclones. They spin because the Earth spins. It's called the Coriolis effect.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S63_0",
+  "who": "N",
+  "text": "That's why cyclones almost never form right on the equator, where that effect is weakest.",
+  "sub": "That's why cyclones almost never form right on the equator, where that effect is weakest.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S63_1",
+  "who": "N",
+  "text": "No spin. No spinning storms.",
+  "sub": "No spin. No spinning storms.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S64_0",
+  "who": "N",
+  "text": "Instead, one giant wind blows from the scorching day side to the frozen night side.",
+  "sub": "Instead, one giant wind blows from the scorching day side to the frozen night side.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S65_0",
+  "who": "B",
+  "text": "Well, at least I can watch the cricket match.",
+  "sub": "Well, at least I can watch the cricket match.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S65_1",
+  "who": "N",
+  "text": "Not on your dish.",
+  "sub": "Not on your dish.",
+  "voice": "bf_emma",
+  "speed": 0.8,
+  "cut": 0.82
+ },
+ {
+  "id": "S65_2",
+  "who": "N",
+  "text": "TV satellites circle the Earth once a day, so they stay above the same spot.",
+  "sub": "TV satellites circle the Earth once a day, so they stay above the same spot.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S66_0",
+  "who": "N",
+  "text": "Now the Earth isn't turning. The satellite keeps going. It slides across the sky, and your signal goes with it.",
+  "sub": "Now the Earth isn't turning. The satellite keeps going. It slides across the sky, and your signal goes with it.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S66_1",
+  "who": "B",
+  "text": "Nooo! Last over!",
+  "sub": "NOOO! LAST OVER!",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S67_0",
+  "who": "N",
+  "text": "Now, the water. Remember the fat middle?",
+  "sub": "Now, the water. Remember the fat middle?",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S67_1",
+  "who": "N",
+  "text": "The spin was flinging the oceans outward, holding them up around the equator.",
+  "sub": "The spin was flinging the oceans outward, holding them up around the equator.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S68_0",
+  "who": "N",
+  "text": "Take the spin away, and the equator becomes a giant hill.",
+  "sub": "Take the spin away, and the equator becomes a giant hill.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S68_1",
+  "who": "N",
+  "text": "And water runs downhill.",
+  "sub": "And water runs downhill.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S69_0",
+  "who": "N",
+  "text": "All the way to the poles.",
+  "sub": "All the way to the poles.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S71_0",
+  "who": "B",
+  "text": "Okay, but the Sun will set eventually. Right?",
+  "sub": "Okay, but the Sun will set eventually. Right?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S71_1",
+  "who": "N",
+  "text": "Eventually. And when the next sunrise comes,",
+  "sub": "Eventually. And when the next sunrise comes…",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S72_0",
+  "who": "N",
+  "text": "It rises in the west.",
+  "sub": "It rises in the west.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S73_0",
+  "who": "N",
+  "text": "Earth still goes around the Sun, so the Sun crawls slowly backwards across the sky.",
+  "sub": "Earth still goes around the Sun, so the Sun crawls slowly backwards across the sky.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S74_0",
+  "who": "N",
+  "text": "One sunrise. Per year. In the west.",
+  "sub": "One sunrise. Per year. In the west.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S75_0",
+  "who": "N",
+  "text": "Year one. A day now lasts a whole year.",
+  "sub": "Year one. A day now lasts a whole year.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S76_0",
+  "who": "N",
+  "text": "Six months of sunlight. Six months of night.",
+  "sub": "Six months of sunlight. Six months of night.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S77_0",
+  "who": "B",
+  "text": "How does anyone survive a six-month night?",
+  "sub": "How does anyone survive a six-month night?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S78_0",
+  "who": "N",
+  "text": "On the day side, the ground bakes for months, with no night to cool off.",
+  "sub": "On the day side, the ground bakes for months, with no night to cool off.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S79_0",
+  "who": "N",
+  "text": "On the night side, it gets colder than any Antarctic winter.",
+  "sub": "On the night side, it gets colder than any Antarctic winter.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S80_0",
+  "who": "N",
+  "text": "Most plants need sunlight every day. Six months of darkness kills them.",
+  "sub": "Most plants need sunlight every day. Six months of darkness kills them.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S81_0",
+  "who": "N",
+  "text": "Meanwhile, the oceans have finished moving. One huge ocean at each pole.",
+  "sub": "Meanwhile, the oceans have finished moving. One huge ocean at each pole.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S82_0",
+  "who": "N",
+  "text": "And around the middle, one giant continent wrapped around the whole planet.",
+  "sub": "And around the middle, one giant continent wrapped around the whole planet.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S83_0",
+  "who": "N",
+  "text": "Even the air thins out at the equator. Breathing there would feel like climbing a high mountain.",
+  "sub": "Even the air thins out at the equator. Breathing there would feel like climbing a high mountain.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S84_0",
+  "who": "N",
+  "text": "So where can you live? Here. The thin line between day and night.",
+  "sub": "So where can you live? Here. The thin line between day and night.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S84_1",
+  "who": "N",
+  "text": "An endless sunset. Not too hot. Not too cold.",
+  "sub": "An endless sunset. Not too hot. Not too cold.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S85_0",
+  "who": "N",
+  "text": "But there's a catch. The line is moving.",
+  "sub": "But there's a catch. The line is moving.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S86_0",
+  "who": "N",
+  "text": "At the equator, it moves about four point six kilometers an hour.",
+  "sub": "At the equator, it moves about 4.6 km/h.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S86_1",
+  "who": "N",
+  "text": "That's walking speed.",
+  "sub": "That's walking speed.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S87_0",
+  "who": "N",
+  "text": "To live in a forever sunset, you just, keep walking. East. Forever.",
+  "sub": "To live in a forever-sunset, you just… keep walking. East. Forever.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S88_0",
+  "who": "B",
+  "text": "Every day?",
+  "sub": "Every day?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S88_1",
+  "who": "N",
+  "text": "There are no days anymore.",
+  "sub": "There are no days anymore.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S89_0",
+  "who": "N",
+  "text": "And while we walk, something invisible above us may start to change.",
+  "sub": "And while we walk… something invisible above us may start to change.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S89_1",
+  "who": "N",
+  "text": "Earth has a shield.",
+  "sub": "Earth has a shield.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S90_0",
+  "who": "N",
+  "text": "And it might need the spin.",
+  "sub": "And it might need the spin.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S91_0",
+  "who": "N",
+  "text": "Animals would have to adapt. Follow the sunset. Sleep through the night. Or dig.",
+  "sub": "Animals would have to adapt. Follow the sunset. Sleep through the night. Or dig.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S92_0",
+  "who": "B",
+  "text": "Sleep through a six-month night? Okay, that part I like.",
+  "sub": "Sleep through a six-month night? …Okay, that part I like.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S93_0",
+  "who": "N",
+  "text": "Let's jump much further. A thousand years.",
+  "sub": "Let's jump much further. A thousand years.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S93_1",
+  "who": "B",
+  "text": "Do I want to see what the map looks like?",
+  "sub": "Do I want to see what the map looks like?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S94_0",
+  "who": "N",
+  "text": "You really do.",
+  "sub": "You really do.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S95_0",
+  "who": "N",
+  "text": "Welcome to the new Earth.",
+  "sub": "Welcome to the new Earth.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S96_0",
+  "who": "N",
+  "text": "Most of the old oceans near the equator are dry land now.",
+  "sub": "Most of the old oceans near the equator are dry land now.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S98_0",
+  "who": "N",
+  "text": "One giant equatorial continent.",
+  "sub": "One giant equatorial continent.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S99_0",
+  "who": "N",
+  "text": "And two polar seas.",
+  "sub": "And two polar seas.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S100_0",
+  "who": "N",
+  "text": "And the planet itself is changing shape. Deep down, rock flows, very slowly, like thick honey.",
+  "sub": "And the planet itself is changing shape. Deep down, rock flows, very slowly, like thick honey.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S101_0",
+  "who": "N",
+  "text": "The fat middle sinks, and Earth gets rounder.",
+  "sub": "The fat middle sinks, and Earth gets rounder.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S102_0",
+  "who": "N",
+  "text": "That means earthquakes. Cracks. Shifting coastlines.",
+  "sub": "That means earthquakes. Cracks. Shifting coastlines.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S103_0",
+  "who": "N",
+  "text": "Any humans left would live underground, or near the polar seas, or on the march with the sunset.",
+  "sub": "Any humans left would live underground, or near the polar seas, or on the march with the sunset.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S104_0",
+  "who": "N",
+  "text": "Now, the shield. Earth's magnetic field comes from liquid iron swirling in the core.",
+  "sub": "Now, the shield. Earth's magnetic field comes from liquid iron swirling in the core.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S104_1",
+  "who": "N",
+  "text": "And the spin helps organize that swirl.",
+  "sub": "And the spin helps organise that swirl.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S105_0",
+  "who": "N",
+  "text": "Without it, many scientists think the field could weaken.",
+  "sub": "Without it, many scientists think the field could weaken.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S105_1",
+  "who": "N",
+  "text": "But nobody knows for sure.",
+  "sub": "But nobody knows for sure.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S106_0",
+  "who": "N",
+  "text": "Look at Venus. It spins so slowly, its day is longer than its year. And it has no magnetic field.",
+  "sub": "Look at Venus. It spins so slowly, its day is longer than its year. And it has no magnetic field.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S107_0",
+  "who": "N",
+  "text": "But Mercury also spins slowly, and it still has one.",
+  "sub": "But Mercury also spins slowly… and it still has one.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S107_1",
+  "who": "B",
+  "text": "So the answer is?",
+  "sub": "So the answer is…?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S107_2",
+  "who": "N",
+  "text": "The answer is, scientists are still arguing.",
+  "sub": "The answer is \"scientists are still arguing.\"",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S108_0",
+  "who": "N",
+  "text": "If the shield did fade, more space radiation would reach the ground. Over millions of years, the solar wind could strip away our air. Like it did on Mars.",
+  "sub": "If the shield did fade, more space radiation would reach the ground. Over millions of years, the solar wind could strip away our air. Like it did on Mars.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S108b_0",
+  "who": "N",
+  "text": "Which brings me to an uncomfortable question.",
+  "sub": "Which brings me to an uncomfortable question.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S108b_1",
+  "who": "N",
+  "text": "Is Earth already slowing down?",
+  "sub": "Is Earth already slowing down?",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S109_0",
+  "who": "N",
+  "text": "Yes.",
+  "sub": "Yes.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S109_1",
+  "who": "N",
+  "text": "Slowly. The Moon has been braking us for billions of years.",
+  "sub": "Slowly. The Moon has been braking us for billions of years.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S110_0",
+  "who": "N",
+  "text": "One point four billion years ago, a day lasted only about nineteen hours.",
+  "sub": "1.4 billion years ago, a day lasted only about 19 hours.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S111_0",
+  "who": "N",
+  "text": "And the Moon is drifting away. Three point eight centimeters a year.",
+  "sub": "And the Moon is drifting away. 3.8 centimetres a year.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S111_1",
+  "who": "N",
+  "text": "We measure it with lasers, bounced off mirrors the Apollo astronauts left there.",
+  "sub": "We measure it with lasers, bounced off mirrors the Apollo astronauts left there.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S112_0",
+  "who": "N",
+  "text": "Which brings us back to my promise.",
+  "sub": "Which brings us back to my promise.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S113_0",
+  "who": "N",
+  "text": "The one thing in your night sky that would start this planet spinning again,",
+  "sub": "The one thing in your night sky that would start this planet spinning again…",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S114_0",
+  "who": "N",
+  "text": "It is the Moon.",
+  "sub": "…it's the Moon.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S115_0",
+  "who": "N",
+  "text": "Even on a stopped Earth, the Moon still pulls tides across the planet.",
+  "sub": "Even on a stopped Earth, the Moon still pulls tides across the planet.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S115_1",
+  "who": "N",
+  "text": "Those tides drag. Slowly. Like a hand pushing a merry-go-round.",
+  "sub": "Those tides drag. Slowly. Like a hand pushing a merry-go-round.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S116_0",
+  "who": "N",
+  "text": "Over tens or hundreds of millions of years, the Moon would turn the Earth again. About one spin every twenty-seven days.",
+  "sub": "Over tens or hundreds of millions of years, the Moon would turn the Earth again. About one spin every 27 days.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S116_1",
+  "who": "B",
+  "text": "The Moon saves us!",
+  "sub": "The Moon saves us!",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S117_0",
+  "who": "N",
+  "text": "But nothing is free.",
+  "sub": "But nothing is free.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S117_1",
+  "who": "N",
+  "text": "To spin us up, the Moon gives away its own energy.",
+  "sub": "To spin us up, the Moon gives away its own energy.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S118_0",
+  "who": "N",
+  "text": "So instead of drifting away,",
+  "sub": "So instead of drifting away…",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S118_1",
+  "who": "N",
+  "text": "it starts falling toward us.",
+  "sub": "…it starts falling toward us.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S119_0",
+  "who": "N",
+  "text": "It's already happening somewhere. The moon of Mars, Phobos, is spiraling inward right now. One day, it will be torn apart.",
+  "sub": "It's already happening somewhere. Mars's moon Phobos is spiralling inward right now. One day, it will be torn apart.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S120_0",
+  "who": "N",
+  "text": "That's the cost. To save Earth's spin, the Moon slowly falls toward us.",
+  "sub": "That's the cost. To save Earth's spin, the Moon slowly falls toward us.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S121_0",
+  "who": "B",
+  "text": "Okay. I'm awake. I'm so awake. Put it back!",
+  "sub": "Okay. I'm awake. I'm SO awake. Put it back.",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S122_0",
+  "who": "B",
+  "text": "Wait. If the Moon is that important,",
+  "sub": "Wait. If the Moon is that important…",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S122_1",
+  "who": "B",
+  "text": "What if we just, lost the Moon?",
+  "sub": "What if we just… lost the Moon?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S123_0",
+  "who": "N",
+  "text": "That's worse.",
+  "sub": "That's worse.",
+  "voice": "bf_emma",
+  "speed": 0.8,
+  "cut": 0.74
+ },
+ {
+  "id": "S124_0",
+  "who": "N",
+  "text": "Much worse. That's next.",
+  "sub": "Much worse. That's next.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ },
+ {
+  "id": "S125_0",
+  "who": "B",
+  "text": "Five more minutes?",
+  "sub": "…Five more minutes?",
+  "voice": "am_eric",
+  "speed": 1
+ },
+ {
+  "id": "S125_1",
+  "who": "N",
+  "text": "Nope.",
+  "sub": "Nope.",
+  "voice": "bf_emma",
+  "speed": 0.88
+ }
+]

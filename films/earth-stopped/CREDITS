@@ -1,0 +1,7 @@
+The Day Earth Stopped — credits for third-party material
+
+Voices: Kokoro TTS (kokoro-onnx, model by hexgrad), Apache License 2.0 — voices bf_emma (Nova), am_eric (Bunty)
+Fonts (Google Fonts, SIL Open Font License 1.1): Baloo 2, Lilita One, Titan One, VT323
+Map data: Natural Earth 1:50m land (public domain), via the world-atlas package (ISC licence); regional view of peninsular India, lon 66–84.5°E, lat 6–29.2°N, coastlines only, no borders
+Music and sound effects: original, synthesized in code (numpy/scipy) for this film
+Characters, designs and story: original
