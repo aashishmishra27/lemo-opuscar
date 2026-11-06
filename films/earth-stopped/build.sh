@@ -7,6 +7,10 @@ export LIB
 [ -f "$LIB/core/render/video.mjs" ] || { echo "set LIB to the library folder"; exit 1; }
 PY="$LIB/.venv/bin/python"
 cd "$HERE"
+G=https://raw.githubusercontent.com/google/fonts/main/ofl                  # fonts (OFL), fetched once
+for f in "baloo2/Baloo2%5Bwght%5D.ttf baloo2.ttf" "vt323/VT323-Regular.ttf vt323.ttf" "titanone/TitanOne-Regular.ttf titanone.ttf" "lilitaone/LilitaOne-Regular.ttf lilita.ttf"; do
+  set -- $f; [ -f "fonts/$2" ] || curl -sSL -o "fonts/$2" "$G/$1"
+done
 [ -f data/world-atlas/land-50m.json ] && node tools/india.mjs data/world-atlas/land-50m.json india.json   # map data (Natural Earth via npm world-atlas, clipped; no borders); india.json is kept in the repo
 node tools/lines.mjs                                               # script.js → lines.json
 "$PY" "$LIB/core/tts/tts.py" lines.json out/raw                    # 1. Kokoro voices
